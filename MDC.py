@@ -1,4 +1,5 @@
 #MDC através de euclides
+#Versão atualizada
 
 dividendo = 24
 divisor = 20 
