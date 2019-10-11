@@ -1,6 +1,7 @@
 #MDC através de euclides
+#Versão atualizada
 
-dividendo = 24
+dividendo = 25
 divisor = 20 
 
 while divisor (divisor!= 0):
